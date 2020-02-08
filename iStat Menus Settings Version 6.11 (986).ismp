@@ -902,7 +902,7 @@
 				<array>
 					<array>
 						<string>___ICON__MOON___</string>
-						<string>' &lt;?= date('</string>
+						<string>' &lt;?= date( '</string>
 						<string>dd</string>
 						<string>'\'</string>
 						<string>MM</string>
@@ -912,7 +912,7 @@
 						<string>HH</string>
 						<string>':'</string>
 						<string>mm</string>
-						<string>'); ?&gt;'</string>
+						<string>' ); ?&gt;'</string>
 					</array>
 					<array/>
 				</array>
