@@ -21,9 +21,15 @@
 		<array>
 			<dict>
 				<key>key</key>
+				<string>4</string>
+				<key>uuid</key>
+				<string>93577193-47A0-47BE-9B38-44C60A4E0178</string>
+			</dict>
+			<dict>
+				<key>key</key>
 				<string>0</string>
 				<key>uuid</key>
-				<string>9CF3CDF8-8B92-4BCB-990E-43C5347D43E9</string>
+				<string>39DB94B6-0206-4F20-B792-A20A57196CF0</string>
 			</dict>
 		</array>
 		<key>Battery_MenubarModeAirpods</key>
@@ -32,13 +38,13 @@
 				<key>key</key>
 				<string>8</string>
 				<key>uuid</key>
-				<string>1FE9A7E8-EC80-43AC-89F6-82C94B073950</string>
+				<string>ADD1F5F0-76E0-48A3-9EFD-CBE425B41B8A</string>
 			</dict>
 			<dict>
 				<key>key</key>
 				<string>0</string>
 				<key>uuid</key>
-				<string>93813121-51CE-4BE2-AC53-C24133FABE5C</string>
+				<string>F9EF120E-82B7-4E30-811C-D154C0707016</string>
 			</dict>
 		</array>
 		<key>Battery_MenubarModeBluetooth</key>
@@ -47,13 +53,13 @@
 				<key>key</key>
 				<string>8</string>
 				<key>uuid</key>
-				<string>4193EDD0-C7DC-4BB2-9D06-445D77D40BF8</string>
+				<string>A7F92828-B8B3-4394-B772-C7134CD20D19</string>
 			</dict>
 			<dict>
 				<key>key</key>
 				<string>0</string>
 				<key>uuid</key>
-				<string>45DB8946-1607-4A05-94C7-72C9FFCDBCC5</string>
+				<string>B3232A65-5AD3-41E1-8EB5-FDE3304ACD92</string>
 			</dict>
 		</array>
 		<key>Battery_PercentageColor-Dark</key>
@@ -70,37 +76,25 @@
 				<key>key</key>
 				<string>8</string>
 				<key>uuid</key>
-				<string>66661F6F-E0B6-4E34-AC8C-6886D281331E</string>
-			</dict>
-			<dict>
-				<key>key</key>
-				<string>9</string>
-				<key>uuid</key>
-				<string>C274209A-040D-44F7-BCC6-ABF8F87E9AEA</string>
+				<string>89B4B898-63F9-4AC4-A189-0F142D7B7453</string>
 			</dict>
 			<dict>
 				<key>key</key>
 				<string>10</string>
 				<key>uuid</key>
-				<string>680D7765-E889-41A0-B63E-7BD9DC86C14B</string>
+				<string>7A60D600-B08A-43CF-BAE3-9B6159F3DB6E</string>
 			</dict>
 			<dict>
 				<key>key</key>
 				<string>100</string>
 				<key>uuid</key>
-				<string>EFAC25E7-949D-4486-8D84-25B79350305E</string>
-			</dict>
-			<dict>
-				<key>key</key>
-				<string>6</string>
-				<key>uuid</key>
-				<string>DFE76B7B-E8D4-4DD4-9E5D-5AA23E3885DC</string>
+				<string>2D0D853F-EDC5-460C-951B-06DF741E0AF3</string>
 			</dict>
 			<dict>
 				<key>key</key>
 				<string>2</string>
 				<key>uuid</key>
-				<string>FC270852-C8C4-4F73-BFA8-9453B78EA228</string>
+				<string>258FE3B5-C2DE-4573-AF9D-A860406047DD</string>
 			</dict>
 		</array>
 		<key>CPU_MenubarTextColor-Dark</key>
@@ -803,21 +797,21 @@
 		<array>
 			<dict>
 				<key>key</key>
-				<string>4</string>
+				<string>6</string>
 				<key>uuid</key>
-				<string>105FD8A1-F215-488D-98F8-230055E900C4</string>
+				<string>379B81AA-B0B9-44D1-9D35-4B4551F670D6</string>
 			</dict>
 			<dict>
 				<key>key</key>
 				<string>100</string>
 				<key>uuid</key>
-				<string>70428D30-C182-4C54-A3D4-A7B9F220D69B</string>
+				<string>3017CF0F-A391-4995-A91E-B4F23CB71557</string>
 			</dict>
 			<dict>
 				<key>key</key>
 				<string>0</string>
 				<key>uuid</key>
-				<string>E0D1B87C-560B-4B3E-B0C4-18FDA5D257C9</string>
+				<string>D4323464-9DEC-4B27-A7C0-A958B56DCFE6</string>
 			</dict>
 		</array>
 		<key>Network_TextDownloadColor-Dark</key>
@@ -957,25 +951,25 @@
 		<array>
 			<dict>
 				<key>key</key>
-				<string>2</string>
+				<string>100</string>
 				<key>uuid</key>
-				<string>DFB1168E-6959-4C46-AB2F-EA1D2F9202E8</string>
+				<string>38B14AC5-E923-4F06-AFFA-292A92C640B3</string>
 			</dict>
 			<dict>
 				<key>key</key>
-				<string>3</string>
+				<string>0</string>
 				<key>uuid</key>
-				<string>B761840B-7740-41E8-A19D-081136FAB7C2</string>
+				<string>98F922EE-4DAE-468E-84B1-8A83594560F3</string>
 			</dict>
 		</array>
 		<key>Sensors_MenubarTextColor-Dark</key>
 		<string>1.00 0.99 0.00 1.00</string>
 		<key>StatusItems-Order</key>
 		<array>
-			<integer>5</integer>
-			<integer>1</integer>
 			<integer>4</integer>
 			<integer>7</integer>
+			<integer>5</integer>
+			<integer>1</integer>
 			<integer>6</integer>
 		</array>
 		<key>Theme-SeperateStyles</key>
@@ -1076,11 +1070,11 @@
 		<key>Zarya-TLE</key>
 		<dict>
 			<key>time</key>
-			<real>1651611694.9559679</real>
+			<real>1651699452.988946</real>
 			<key>tle</key>
 			<string>ISS (ZARYA)             
-1 25544U 98067A   22123.71092933  .00010889  00000+0  19898-3 0  9997
-2 25544  51.6436 196.8615 0006586  61.0844  48.3225 15.49919614338288</string>
+1 25544U 98067A   22124.67700479  .00007637  00000+0  14198-3 0  9999
+2 25544  51.6432 192.0745 0006667  64.8144  38.5633 15.49927116338437</string>
 		</dict>
 	</dict>
 	<key>version</key>
